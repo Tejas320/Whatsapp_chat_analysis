@@ -1,6 +1,6 @@
 streamlit==1.23.1
 matplotlib==3.5.3
-seaborn==0.13.2
+seaborn==0.12.2
 urlextract==1.9.0
 wordcloud==1.9.3
 pandas==1.1.5
