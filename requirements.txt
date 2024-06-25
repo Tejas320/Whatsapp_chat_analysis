@@ -1,5 +1,4 @@
 emoji==1.6.3
-MarkupSafe==2.0.1
 matplotlib==3.5.3
 pandas==1.1.5
 seaborn==0.12.2
