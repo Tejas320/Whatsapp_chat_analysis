@@ -1,3 +1,3 @@
 # Whatsapp Chat Analysis
 Deployed this app on Streamlit Cloud 
-Link: https://wca-app.streamlit.app/
+<a href="https://wca-app.streamlit.app" target="_blank">Open Streamlit App</a>
