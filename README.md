@@ -29,7 +29,7 @@ The WhatsApp Chat Analysis project includes a feature for generating word clouds
 ![image](https://github.com/Tejas320/Whatsapp_chat_analysis/assets/73283098/478f79a6-d5ef-4151-ae66-d4b511664eaf)
 ## Most Common Words
 This feature analyzes the most frequently used words in a WhatsApp chat export and visualizes the results in a bar chart for both user level and group level. It helps identify common topics and recurring themes in conversations. Stop words and common phrases are filtered out to highlight meaningful content, providing a clearer understanding of communication patterns.
-### Note: Please refer to `stop_hinglish.txt` file provided above for hinglish stopwords. You can edit this file to include more stopwords a sper your convenience.
+### Note: Please refer to `stop_hinglish.txt` file provided above for hinglish stopwords. You can edit this file to include more stopwords as per your convenience.
 #### Most Common Words of a group chat
 ![image](https://github.com/Tejas320/Whatsapp_chat_analysis/assets/73283098/6c22f223-8131-40d2-b2eb-0538e79ab036)
 ## Emoji Analysis
