@@ -1,4 +1,5 @@
 [server]
-enableXsrfProtection = false
 enableCORS = false
-unsafe_allow_html = true
+enableXsrfProtection = false
+headless = true
+port = $PORT
