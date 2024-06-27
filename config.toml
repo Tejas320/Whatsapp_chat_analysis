@@ -2,4 +2,4 @@
 enableCORS = false
 enableXsrfProtection = false
 headless = true
-port = $PORT
+port = "8501"
