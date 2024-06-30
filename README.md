@@ -39,7 +39,7 @@ This module within the WhatsApp Chat Analysis project focuses on identifying and
 ![image](https://github.com/Tejas320/Whatsapp_chat_analysis/assets/73283098/d4f2d8d8-5338-40fd-ab7d-3b67ece6e2b7)
 ## Conversation Starters
 This feature identifies conversation starters in WhatsApp chats, displaying a bar chart of users who initiated conversations within 30-minute gaps for only group level. The analysis highlights the frequency and count of these initiators, providing insights into user engagement and interaction dynamics. Ideal for understanding who drives conversations and overall chat activity.
-#### Coversation Starters of a group chat
+#### Conversation Starters of a group chat
 ![image](https://github.com/Tejas320/Whatsapp_chat_analysis/assets/73283098/0d47d28f-b6ba-4a18-a31f-8e226efcb848)
 
 
