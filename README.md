@@ -4,7 +4,7 @@ Deployed the app on Streamlit Cloud: https://whatsapp-chats-analysis-project.str
 
 This project provides tools for analyzing WhatsApp chat exports. Using Python, it can process chat logs to generate insightful statistics and visualizations. Features include top statistics, monthly timeline, daily timeline, activity maps, most busy users, wordcloud, most common words, emoji analysis, and conversation starters. Ideal for understanding communication patterns and extracting meaningful insights from WhatsApp conversations in both user level and group level.
 ### Note: Python version 3.7.0 has been used for this project.
-### Note: Download the dataset from Whatsapp in AM/PM format.
+### Note: Download the dataset from Whatsapp in AM/PM time format.
 ## Top Statistics
 WhatsApp Chat Analysis tool offers key statistics to help you understand your conversations better. It provides the total number of messages exchanged, the total word count, the number of media files shared, and the total links shared. These metrics give a comprehensive overview of chat activity and engagement in both user level and group level.
 #### Top Statistics of a group chat
